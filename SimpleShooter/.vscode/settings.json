@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PORTFOLIO/ASimpleShooter/SimpleShooter/.vs": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PORTFOLIO/ASimpleShooter/SimpleShooter/.vscode": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PORTFOLIO/ASimpleShooter/SimpleShooter/Content": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PORTFOLIO/ASimpleShooter/SimpleShooter/DerivedDataCache": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PORTFOLIO/ASimpleShooter/SimpleShooter/Intermediate": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PORTFOLIO/ASimpleShooter/SimpleShooter/Saved": true
+	}
+}
